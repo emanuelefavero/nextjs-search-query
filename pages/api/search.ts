@@ -1,5 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from 'next'
-import { posts } from '@/posts'
+import posts from '@/posts.json'
 
 export default function handler(
   req: NextApiRequest,
