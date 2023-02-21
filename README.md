@@ -23,3 +23,9 @@ The search query is implemented in 3 steps:
 - The results will be displayed below the search bar
 
 > Note: Check `posts.json` to see the available post titles
+>
+> EXAMPLE SEARCHES: `"first post"`, `"post"`, `""`
+
+## License
+
+- [MIT](LICENSE.md)
