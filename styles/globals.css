@@ -119,6 +119,12 @@ p {
   color: var(--color-p);
 }
 
+ul,
+ol {
+  margin-top: 1rem;
+  list-style: none;
+}
+
 /* DARK MODE */
 /* @media (prefers-color-scheme: dark) {
   html {
