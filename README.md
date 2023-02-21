@@ -2,6 +2,10 @@
 
 This is a simple Next.js app that implements a search query using Next.js API routes
 
+## Live Demo
+
+- [https://nextjs-search-query.vercel.app/](https://nextjs-search-query.vercel.app/)
+
 #### Screenshot
 
 <img src="screenshot.png" alt="screenshot" width="300">
