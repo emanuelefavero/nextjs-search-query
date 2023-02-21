@@ -32,7 +32,10 @@ export default function Search() {
       <ul>
         {results.map((post: Post) => (
           <li key={post.id}>
-            <a href={`/posts/${post.id}`}>{post.title}</a>
+            <h3>{post.title}</h3>
+
+            {/* TIP: change this to a Link to go to post detail page */}
+            {/* <a href={`/posts/${post.id}`}>{post.title}</a> */}
           </li>
         ))}
       </ul>
