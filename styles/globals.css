@@ -39,6 +39,7 @@ body {
   background-color: var(--color-background);
   color: #fff;
 
+  padding: 1rem;
   min-height: 100vh;
 
   /* display: flex; */
