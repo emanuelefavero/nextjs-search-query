@@ -42,10 +42,10 @@ body {
   padding: 1rem;
   min-height: 100vh;
 
-  /* display: flex; */
-  /* justify-content: center; */
-  /* align-items: center; */
-  /* flex-direction: column; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   /* text-align: center; */
 
   /* overflow: hidden; */
@@ -123,6 +123,14 @@ ul,
 ol {
   margin-top: 1rem;
   list-style: none;
+}
+
+input[type='text'] {
+  border: 1px solid var(--color-primary);
+  border-radius: 6px;
+  padding: 0.2rem 1rem;
+  font-size: 1.15rem;
+  margin-right: 1rem;
 }
 
 /* DARK MODE */
