@@ -2,6 +2,10 @@
 
 This is a simple Next.js app that implements a search query using Next.js API routes
 
+#### Screenshot
+
+<img src="screenshot.png" alt="screenshot" width="300">
+
 ## Getting Started
 
 - clone the repo and `cd` into the directory
