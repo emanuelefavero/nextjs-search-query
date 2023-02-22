@@ -25,6 +25,7 @@ export default function Search() {
           type='text'
           value={query}
           onChange={(e) => setQuery(e.target.value)}
+          placeholder='Search posts'
         />
         <button type='submit'>Search</button>
       </form>
